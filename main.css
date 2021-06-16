@@ -1,0 +1,25 @@
+.about{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250;
+    background-color: blue;
+    border: brown;
+
+}
+
+    
+
+
+.space{
+    border: 2px solid black;
+    padding: 50px 100px 50px;
+    width: 10%;
+    background-color: white;
+    
+}
+
+
+body{
+    background-color: lightskyblue;
+}
