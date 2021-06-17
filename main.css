@@ -1,25 +1,47 @@
-.about{
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 250;
-    background-color: blue;
-    border: brown;
 
+body{
+    background-color: lightskyblue;
 }
 
+#register{
+    position: absolute;
+    top:3%;
+    right:1%;
+    border: blue solid;
+    background-color: blue;
+    padding: 0% 0% 0% 0%;
+
+
+}
+#about{
+    position: absolute;
+    top: 3%;
+    right: 8%;
+    border: blue solid;
+    background-color: blue;
+    padding-top: 0%;
     
+    
+}   
 
-
-.space{
+.middle{
     border: 2px solid black;
     padding: 50px 100px 50px;
     width: 10%;
     background-color: white;
-    
+    position: absolute;
+    top: 135px;
+    right: 600px;
 }
-
-
-body{
+#submission{
+    width: 180px;
     background-color: lightskyblue;
+    color: lightyellow;
+}
+#initial{
+    width: 1500px;
+    height: 75px;
+    border: 1px solid rgb(37, 32, 32);
+    background-color: white;
+    margin: 0px;
 }
